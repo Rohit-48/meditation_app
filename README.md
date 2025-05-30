@@ -46,21 +46,9 @@ curl -X POST http://localhost:8000/greeting \
 curl http://localhost:8000/greetings
 ```
 
-## Learning Journey
-Part of a structured Rust learning path:
-- Phase 1: Language fundamentals ✓
-- Phase 2: Web development (this project) ✓
-- Phase 3: Systems programming (next)
-- Phase 4: Advanced patterns (planned)
 
 ## License
 
 MIT License
 
-Copyright (c) 2024
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
+Copyright (c) 2025
