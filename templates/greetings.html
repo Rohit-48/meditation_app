@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Greetings</title>
+</head>
+<body>
+    <h1>All Greetings</h1>
+    <ul>
+        {% for greeting in greetings %}
+            <li>{{ greeting.name }}: {{ greeting.message }} (ID: {{ greeting.id }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+ 
